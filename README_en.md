@@ -1,7 +1,12 @@
 # 🔎 ***Multi-source Data Crawling and Intelligent Analysis System***
 This is a crawler project written in Python. It fetches product data from websites such as IKEA, Amazon, RUSTA, and TARGET, and provides convenient data analysis reports. Meanwhile, it deploys models locally to build a knowledge base, offering strong support for enterprise decision - making and significantly improving work efficiency!
 
-<img src="https://github.com/xuanzhenhuang/Sentiment-Analysis/blob/main/image/Predict.png?raw=true" width="1000px">
+<div align="center" style="margin-top:20px;margin-bottom:20px;">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/FInereport.png?raw=true" width="1000px">
+</div>
+<div align="center" style="margin-top:20px;margin-bottom:20px;">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek2.png?raw=true" width="1000px">
+</div>
 
 <p align="center">
    <a href="./README.md">Simplified Chinese</a> |
@@ -119,4 +124,11 @@ This project aims to integrate multiple advanced technologies to build automated
 - Competitor price monitoring and dynamic pricing strategies.  
 - Early warning of product inventory fluctuations.  
 - Market trend analysis (review sentiment analysis, category popularity).  
-- Building datasets for academic research. 
+- Building datasets for academic research.
+
+<div align="center" style="margin-top:20px;margin-bottom:20px;">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek.jpg?raw=true" width="1000px">
+</div>
+<div align="center" style="margin-top:20px;margin-bottom:20px;">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek3.png?raw=true" width="1000px">
+</div>
