@@ -2,10 +2,10 @@
 This is a crawler project written in Python. It fetches product data from websites such as IKEA, Amazon, RUSTA, and TARGET, and provides convenient data analysis reports. Meanwhile, it deploys models locally to build a knowledge base, offering strong support for enterprise decision - making and significantly improving work efficiency!
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/FInereport.png?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/FInereport.png?raw=true" width="1000px">
 </div>
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek2.png?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/DeepSeek2.png?raw=true" width="1000px">
 </div>
 
 <p align="center">
@@ -127,8 +127,8 @@ This project aims to integrate multiple advanced technologies to build automated
 - Building datasets for academic research.
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek.jpg?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/DeepSeek.jpg?raw=true" width="1000px">
 </div>
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek3.png?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/DeepSeek3.png?raw=true" width="1000px">
 </div>
