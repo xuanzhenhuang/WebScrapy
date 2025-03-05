@@ -2,10 +2,10 @@
 用Python编写的爬虫项目，抓取了包括宜家、亚马逊、RUSTA、TARGET等网站在内的商品数据，提供便捷化的数据分析报表，同时本地化部署模型构建知识库，为企业决策提供有力支持，大幅提升工作效率！
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/FInereport.png?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/FInereport.png?raw=true" width="1000px">
 </div>
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek2.png?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/DeepSeek2.png?raw=true" width="1000px">
 </div>
 
 <p align="center">
@@ -128,8 +128,8 @@
 - 学术研究数据集构建  
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek.jpg?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/DeepSeek.jpg?raw=true" width="1000px">
 </div>
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/DeepSeek3.png?raw=true" width="1000px">
+<img src="https://github.com/xuanzhenhuang/WebScrapy/blob/main/images/DeepSeek3.png?raw=true" width="1000px">
 </div>
